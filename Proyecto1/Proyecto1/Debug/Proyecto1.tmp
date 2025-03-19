@@ -1,0 +1,158 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\Debug\Proyecto1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1.map</FILE>
+  <FILE>Proyecto1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <UNI_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>14</LINE></UNI_MIN>
+  <DEC_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>15</LINE></DEC_MIN>
+  <UNI_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>16</LINE></UNI_HOR>
+  <DEC_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>17</LINE></DEC_HOR>
+  <UNI_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>19</LINE></UNI_DIA>
+  <DEC_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>20</LINE></DEC_DIA>
+  <UNI_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>21</LINE></UNI_MES>
+  <DEC_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>22</LINE></DEC_MES>
+  <UNI_MIN_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>24</LINE></UNI_MIN_ALARM>
+  <DEC_MIN_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>25</LINE></DEC_MIN_ALARM>
+  <UNI_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>26</LINE></UNI_HOR_ALARM>
+  <DEC_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>27</LINE></DEC_HOR_ALARM>
+  <MODE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>30</LINE></MODE>
+  <START><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>79</LINE></START>
+  <PCINT0_ISR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1578</LINE></PCINT0_ISR>
+  <TIMR1_ISR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1550</LINE></TIMR1_ISR>
+  <TIMR0_ISR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1491</LINE></TIMR0_ISR>
+  <tabla7seg><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>47</LINE></tabla7seg>
+  <tablameses_uni><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>49</LINE></tablameses_uni>
+  <tablameses_dec><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>50</LINE></tablameses_dec>
+  <SETUP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>85</LINE></SETUP>
+  <MAIN_LOOP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>201</LINE></MAIN_LOOP>
+  <CONTINUAR_LOOP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>211</LINE></CONTINUAR_LOOP>
+  <SALTAR_CLOCK_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>242</LINE></SALTAR_CLOCK_STATE>
+  <SALTAR_CALENDAR_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>245</LINE></SALTAR_CALENDAR_STATE>
+  <SALTAR_CONFIGURE_CLOCK_HOURS><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>251</LINE></SALTAR_CONFIGURE_CLOCK_HOURS>
+  <SALTAR_CONFIGURE_CLOCK_MINUTES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>248</LINE></SALTAR_CONFIGURE_CLOCK_MINUTES>
+  <SALTAR_CONFIGURE_CALENDAR_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>257</LINE></SALTAR_CONFIGURE_CALENDAR_MES>
+  <SALTAR_CONFIGURE_CALENDAR_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>254</LINE></SALTAR_CONFIGURE_CALENDAR_DIA>
+  <SALTAR_CONFIGURE_ALARM_HOUR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>260</LINE></SALTAR_CONFIGURE_ALARM_HOUR>
+  <SALTAR_CONFIGURE_ALARM_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>263</LINE></SALTAR_CONFIGURE_ALARM_MIN>
+  <SALTAR_ON_OFF_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>266</LINE></SALTAR_ON_OFF_ALARM>
+  <CLOCK_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>269</LINE></CLOCK_STATE>
+  <CALENDAR_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>315</LINE></CALENDAR_STATE>
+  <CONFIGURE_CLOCK_MINUTES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>362</LINE></CONFIGURE_CLOCK_MINUTES>
+  <CONFIGURE_CLOCK_HOURS><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>482</LINE></CONFIGURE_CLOCK_HOURS>
+  <CONFIGURE_CALENDAR_DAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>616</LINE></CONFIGURE_CALENDAR_DAY>
+  <CONFIGURE_CALENDAR_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>785</LINE></CONFIGURE_CALENDAR_MES>
+  <CONFIGURE_ALARM_HOUR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>920</LINE></CONFIGURE_ALARM_HOUR>
+  <CONFIGURE_ALARM_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1059</LINE></CONFIGURE_ALARM_MIN>
+  <ON_OFF_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1184</LINE></ON_OFF_ALARM>
+  <FOLLOW_CLOCK_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>310</LINE></FOLLOW_CLOCK_STATE>
+  <EXIT_LOOP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1256</LINE></EXIT_LOOP>
+  <ONE_MINUTE_SUM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1261</LINE></ONE_MINUTE_SUM>
+  <FOLLOW_CALENDAR_STATE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>356</LINE></FOLLOW_CALENDAR_STATE>
+  <SUM_MINUTES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>409</LINE></SUM_MINUTES>
+  <REST_MINUTES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>445</LINE></REST_MINUTES>
+  <SUMAR_DEC_MIN_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>421</LINE></SUMAR_DEC_MIN_CONFIGURE>
+  <OVERFLOW_MIN_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>436</LINE></OVERFLOW_MIN_CONFIGURE>
+  <RESTAR_DEC_MIN_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>457</LINE></RESTAR_DEC_MIN_CONFIGURE>
+  <UNDERFLOW_MIN_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>471</LINE></UNDERFLOW_MIN_CONFIGURE>
+  <SUM_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>534</LINE></SUM_HOR>
+  <REST_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>578</LINE></REST_HOR>
+  <CHECK_UNI_HOR_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>550</LINE></CHECK_UNI_HOR_CONFIGURE>
+  <SUMAR_DEC_HOR_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>556</LINE></SUMAR_DEC_HOR_CONFIGURE>
+  <FOLLOW_ROUTINE_UNI_HOR_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>545</LINE></FOLLOW_ROUTINE_UNI_HOR_CONFIGURE>
+  <OVERFLOW_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>569</LINE></OVERFLOW_HOR>
+  <RESTAR_DEC_HOR_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>590</LINE></RESTAR_DEC_HOR_CONFIGURE>
+  <UNDERFLOW_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>604</LINE></UNDERFLOW_HOR>
+  <SUM_DAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>665</LINE></SUM_DAY>
+  <REST_DAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>726</LINE></REST_DAY>
+  <CHECK_UNI_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>704</LINE></CHECK_UNI_DIA_CONFIGURE>
+  <SUMAR_DEC_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>690</LINE></SUMAR_DEC_DIA_CONFIGURE>
+  <FOLLOW_ROUTINE_UNI_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>683</LINE></FOLLOW_ROUTINE_UNI_DIA_CONFIGURE>
+  <OVERFLOW_DAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>717</LINE></OVERFLOW_DAY>
+  <CHECK_DEC_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>758</LINE></CHECK_DEC_DIA_CONFIGURE>
+  <RESTAR_DEC_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>745</LINE></RESTAR_DEC_DIA_CONFIGURE>
+  <FOLLOW_ROUTINE_DEC_DIA_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>738</LINE></FOLLOW_ROUTINE_DEC_DIA_CONFIGURE>
+  <UNDERFLOW_DAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>765</LINE></UNDERFLOW_DAY>
+  <SUM_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>832</LINE></SUM_MES>
+  <REST_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>876</LINE></REST_MES>
+  <CHECK_UNI_MES_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>849</LINE></CHECK_UNI_MES_CONFIGURE>
+  <SUMAR_DEC_MES_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>855</LINE></SUMAR_DEC_MES_CONFIGURE>
+  <FOLLOW_ROUTINE_UNI_MES_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>843</LINE></FOLLOW_ROUTINE_UNI_MES_CONFIGURE>
+  <OVERFLOW_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>866</LINE></OVERFLOW_MES>
+  <CHECK_UNI_MES_CONFIGURE_REST><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>893</LINE></CHECK_UNI_MES_CONFIGURE_REST>
+  <RESTAR_DEC_MES_CONFIGURE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>899</LINE></RESTAR_DEC_MES_CONFIGURE>
+  <FOLLOW_ROUTINE_UNI_MES_CONFIGURE_REST><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>887</LINE></FOLLOW_ROUTINE_UNI_MES_CONFIGURE_REST>
+  <UNDERFLOW_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>910</LINE></UNDERFLOW_MES>
+  <FOLLOW_ALARM_STATE_HOUR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>968</LINE></FOLLOW_ALARM_STATE_HOUR>
+  <SUM_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>977</LINE></SUM_HOR_ALARM>
+  <REST_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1021</LINE></REST_HOR_ALARM>
+  <CHECK_UNI_HOR_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>993</LINE></CHECK_UNI_HOR_CONFIGURE_ALARM>
+  <SUMAR_DEC_HOR_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>999</LINE></SUMAR_DEC_HOR_CONFIGURE_ALARM>
+  <FOLLOW_ROUTINE_UNI_HOR_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>988</LINE></FOLLOW_ROUTINE_UNI_HOR_CONFIGURE_ALARM>
+  <OVERFLOW_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1012</LINE></OVERFLOW_HOR_ALARM>
+  <RESTAR_DEC_HOR_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1033</LINE></RESTAR_DEC_HOR_CONFIGURE_ALARM>
+  <UNDERFLOW_HOR_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1047</LINE></UNDERFLOW_HOR_ALARM>
+  <FOLLOW_ALARM_STATE_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1104</LINE></FOLLOW_ALARM_STATE_MIN>
+  <SUM_MINUTES_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1112</LINE></SUM_MINUTES_ALARM>
+  <REST_MINUTES_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1147</LINE></REST_MINUTES_ALARM>
+  <SUMAR_DEC_MIN_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1124</LINE></SUMAR_DEC_MIN_CONFIGURE_ALARM>
+  <OVERFLOW_MIN_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1138</LINE></OVERFLOW_MIN_CONFIGURE_ALARM>
+  <RESTAR_DEC_MIN_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1159</LINE></RESTAR_DEC_MIN_CONFIGURE_ALARM>
+  <UNDERFLOW_MIN_CONFIGURE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1173</LINE></UNDERFLOW_MIN_CONFIGURE_ALARM>
+  <FOLLOW_ON_OFF_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1234</LINE></FOLLOW_ON_OFF_ALARM>
+  <ACTIVATE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1242</LINE></ACTIVATE_ALARM>
+  <DESACTIVATE_ALARM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1249</LINE></DESACTIVATE_ALARM>
+  <FOLLOW_ONE_MINUTE_SUM><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1276</LINE></FOLLOW_ONE_MINUTE_SUM>
+  <SUMAR_DEC_MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1287</LINE></SUMAR_DEC_MIN>
+  <EXIT_CALL><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1486</LINE></EXIT_CALL>
+  <SUMAR_UNI_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1302</LINE></SUMAR_UNI_HOR>
+  <FOLLOW_SUMAR_UNI_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1322</LINE></FOLLOW_SUMAR_UNI_HOR>
+  <CHECK_UNI_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1336</LINE></CHECK_UNI_HOR>
+  <SUMAR_DEC_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1343</LINE></SUMAR_DEC_HOR>
+  <FOLLOW_ROUTINE_UNI_HOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1331</LINE></FOLLOW_ROUTINE_UNI_HOR>
+  <SUMAR_UNI_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1359</LINE></SUMAR_UNI_DIA>
+  <FOLLOW_SUMAR_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1379</LINE></FOLLOW_SUMAR_DIA>
+  <CHECK_UNI_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1403</LINE></CHECK_UNI_DIA>
+  <SUMAR_DEC_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1416</LINE></SUMAR_DEC_DIA>
+  <FOLLOW_ROUTINE_UNI_DIA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1396</LINE></FOLLOW_ROUTINE_UNI_DIA>
+  <SUMAR_UNI_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1431</LINE></SUMAR_UNI_MES>
+  <CHECK_UNI_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1456</LINE></CHECK_UNI_MES>
+  <SUMAR_DEC_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1462</LINE></SUMAR_DEC_MES>
+  <FOLLOW_ROUTINE_UNI_MES><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1450</LINE></FOLLOW_ROUTINE_UNI_MES>
+  <RESET_CLOCK><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1476</LINE></RESET_CLOCK>
+  <CHECK2><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1512</LINE></CHECK2>
+  <UPDATE_DISPLAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1532</LINE></UPDATE_DISPLAY>
+  <CHECK3><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1519</LINE></CHECK3>
+  <CHECK4><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1526</LINE></CHECK4>
+  <UPDATE_DISPLAY_RESET><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1534</LINE></UPDATE_DISPLAY_RESET>
+  <END_ISR_TIMER0><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1542</LINE></END_ISR_TIMER0>
+  <INCREMENTAR_CONTADOR_1MIN><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1568</LINE></INCREMENTAR_CONTADOR_1MIN>
+  <END_ISR_TIMER1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1571</LINE></END_ISR_TIMER1>
+  <CHANGE_MODE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1597</LINE></CHANGE_MODE>
+  <CHANGE_ACTION_SUMAR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1610</LINE></CHANGE_ACTION_SUMAR>
+  <CHANGE_ACTION_RESTAR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1631</LINE></CHANGE_ACTION_RESTAR>
+  <END_ISR_PCINT0><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1641</LINE></END_ISR_PCINT0>
+  <RESET_MODE><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1605</LINE></RESET_MODE>
+  <APAGAR_ALARMA><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1620</LINE></APAGAR_ALARMA>
+  <APAGAR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Proyecto1\Proyecto1\Proyecto1\main.asm</FILE><LINE>1626</LINE></APAGAR>
+ </LABELS>
+</ASSEMBLER_INFO>
